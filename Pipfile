@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+toolium = "~=3.0"
+behave = "==1.2.6"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
